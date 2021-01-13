@@ -1,4 +1,11 @@
 hello 0113
 2nd commit第二次提交的
 master change
-hot-fix  xiugaide
+hot-fix  xiugaidei
+hello git!  hot-fix修改的
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
